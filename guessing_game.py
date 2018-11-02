@@ -9,9 +9,10 @@ import random
 
 def start_game():
     """
-    3. Display Highscore that persists until application quit
+    A guessing game with basic features.
     """
     # write your code inside this function.
+    
     print("Hi, Welcome to the Guessing Game!\n")
     # initializing the variables for the loop
     attempts = 0
